@@ -1,11 +1,8 @@
 {
     "tags": [
-        "碎石", 
-        "玻璃", 
-        "具体", 
-        "铁", 
-        "焦油", 
-        "沥青"
+        "hello", 
+        "big", 
+        "world"
     ], 
-    "status": "Beta"
+    "status": "Official"
 }
